@@ -1,6 +1,6 @@
 # mapJS
 
-##What does this app do?
+<h2>What does this app do?</h2>
 This application was working with coordinates on the Earth map.
 ##What functions does it perform?
 1)Search for the most  **`northern`**,  **`southern`**,  **`western`**,  **`eastern`** town from the list.<br>
