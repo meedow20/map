@@ -8,4 +8,4 @@ This application was working with coordinates on the Earth map.
 3)Gets **`unique abbreviated names`** of cities from the list.
 <h3>Instructions:</h3>
 1)Clone the repo.<br>
-2)Open your index.html file and enjoy! 
+2)Open your **`index.html**` file and enjoy! 
