@@ -1,4 +1,4 @@
-# mapJS
+# map
 
 <h3>What does this app do?</h3>
 This application was working with coordinates on the Earth map.
